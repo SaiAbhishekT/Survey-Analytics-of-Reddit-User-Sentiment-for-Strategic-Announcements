@@ -1,4 +1,4 @@
-**Survey-Analytics-of-Reddit-User-Sentiment-for-Strategic-Announcements** <br>
+# Survey-Analytics-of-Reddit-User-Sentiment-for-Strategic-Announcements
 
 final-project-p1.ipynb // <br>
 **Task Performed:** <br>
